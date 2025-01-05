@@ -1,2 +1,2 @@
 # particle2025
-a fun particle demo for new year
+a fun & fantastic particle demo for new year 2025
